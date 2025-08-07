@@ -302,6 +302,3 @@ This piece should evoke:
 * A sense of **being within a body that is also a landscape**
 
 ---
-
-
-Would you like sample images or a generated series to illustrate these layout types in watercolor?
